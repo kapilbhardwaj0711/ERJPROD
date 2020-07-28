@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>InstituteAdmin_AddUser_Import</description>
+   <name>InstituteAdmin_AddUser_Import</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6958d7f-1d2e-4ee0-b887-266d88fb0fb6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5d7ba201-64b1-4bd2-8a77-c04b3947bd3d</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>

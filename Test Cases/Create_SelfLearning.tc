@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create self Learning test by student</description>
+   <name>Create_SelfLearning</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3de1c114-dc00-44e3-b5b2-5921fb72af94</testCaseGuid>
+</TestCaseEntity>

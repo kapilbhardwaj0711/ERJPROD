@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>InstituteAdmin_CreateSpecility</description>
+   <name>InstituteAdmin_CreateSpecility</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2f6b287-78bd-41b4-8231-07da4e66f9aa</testCaseGuid>
+</TestCaseEntity>

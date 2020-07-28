@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InstituteAdmin_Delete_Speciality</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4810610-953f-4865-8469-18cd26eccc06</testCaseGuid>
+</TestCaseEntity>

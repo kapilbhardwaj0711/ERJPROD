@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InstituteAdmin_AddQuestion_Manually</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1b71689-6850-44ed-932a-2c2d8ffe0256</testCaseGuid>
+</TestCaseEntity>
